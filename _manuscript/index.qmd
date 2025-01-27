@@ -23,7 +23,6 @@ segun asdñlsafkads
 fdsaf
 
 ***Palabras clave***
-
 *Holi*
 
 ```{r}

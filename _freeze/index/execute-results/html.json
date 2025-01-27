@@ -1,0 +1,15 @@
+{
+  "hash": "dc5698f4a443a809c8b9735f785874cd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: La estadistica espacial como fuente\nauthors:\n  - name: Oscar chullo Puclla\n    orcid: 0009-0006-3384-3786\n    email: oscarchullop@gmail.com\n    affiliations: Universidad Nacional de San Antonio Abad del Cusco\n    roles:\n      - Investigation\n      - Writing\n      - Software\n      - Visualization\n    corresponding: true\n  \nbibliography: references.bib\n---\n\n\n\n\n\n## Abstract\nThis is a simple placeholder for the manuscript's main document [@knuth84].\n\nsegun asdñlsafkads\n\nfdsaf\n\n***Palabras clave***\n*Holi*\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\nHe aqui un leon\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
